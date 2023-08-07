@@ -75,7 +75,7 @@ h2 {
 
 #full-stack-expriance {
     border-left: 7px solid;
-    border-image: linear-gradient(orange, tomato);
+    border-image: linear-gradient(rgb(214, 142, 8), tomato);
     border-image-slice: 1;
 }
 
